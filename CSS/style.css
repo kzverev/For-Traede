@@ -1,0 +1,26 @@
+.filtersList {
+	display: inline-block;
+	width: 30%;
+	position: absolute;
+	top: 20px;
+	left: 40px
+}
+
+.itemList {
+	display: inline-block;
+	width: 60%;
+	position: absolute;
+	right: 15px;
+}
+
+.itemList .item {
+	display: inline-block;
+	margin: 10px;
+}
+
+.alert {
+	position: absolute;
+	top: 150px;
+	left: 300px;
+	text-transform: uppercase;
+}
